@@ -71,7 +71,7 @@ class NextPreviousBase(object):
     def __init__(self, context):
         self.context = context
         registry = getUtility(IRegistry)
-        self.vat = registry.get('plone.types_view_action_in_listings', [])
+        self.vat = registry.get('plone.types_use_view_action_in_listings', [])
         self.security = getSecurityManager()
         order = context.getOrdering()
         if not isinstance(order, list):
