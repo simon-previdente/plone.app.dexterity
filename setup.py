@@ -32,7 +32,7 @@ setup(name='plone.app.dexterity',
       install_requires=[
           # Dexterity
           'plone.app.textfield',
-          'plone.behavior>=1.0b5',
+          'plone.behavior>=1.1',
           'plone.dexterity >= 2.2.2dev',
           'plone.formwidget.namedfile',
           'plone.namedfile[scales] >=1.0b5dev-r36016',

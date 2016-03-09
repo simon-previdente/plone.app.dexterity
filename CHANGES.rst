@@ -10,7 +10,9 @@ Incompatibilities:
 
 New:
 
-- *add item here*
+- Behaviors can be addressed using a shortname since plone.behavior>=1.1.
+  Name the standard behaviors.
+  [jensens]
 
 Fixes:
 
