@@ -4,17 +4,10 @@ Changelog
 2.3.2 (unreleased)
 ------------------
 
-Breaking changes:
+Fixes:
 
-- *add item here*
-
-New features:
-
-- *add item here*
-
-Bug fixes:
-
-- *add item here*
+- Docs: Typo in Unit tests page
+  [simon-previdente]
 
 
 2.3.1 (2016-06-07)
